@@ -16,21 +16,21 @@
  </tr>
  <tr>
   <td>
-   <img src = "https://skillicons.dev/icons?i=py,java,c,js,swift,solidity&theme=dark">
+   <img src="https://skillicons.dev/icons?i=py,java,c,js,solidity,cpp&theme=dark" alt="Programming Languages">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=html,css,react,flask&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=html,css,react,flask,js,bootstrap,php,nextjs&theme=dark">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=mysql,sqlite,mongodb,supabase&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark">
   </td>
  </tr>
  <tr>
   <td>
-   <strong>DevOps & Deployment</strong>
+   <strong>Libraries and Frameworks</strong>
   </td>
   <td>
-   <strong>Version Control</strong>
+   <strong>DevOps & Deployment</strong>
   </td>
   <td>
    <strong>Miscellaneous</strong>
@@ -38,13 +38,13 @@
  </tr>
  <tr>
   <td>
-   <img src = "https://skillicons.dev/icons?i=githubactions,docker,gcp,vercel&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=react,django,tensorflow,tailwind&theme=dark">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=git,github&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=docker,kubernetes,git,github,aws,vercel&theme=dark">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=arduino,linux,bash&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=arduino,raspberrypi,solidity,linux,bash&theme=dark">
   </td>
  </tr>
 </table>
