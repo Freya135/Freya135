@@ -14,9 +14,8 @@
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/08wn619qh1cyptuwhmudt8ugn?si=6c876d54ccaa4b3c)
 
 </div>
-
 <br>
-## ⚡️ Languages and Tools
+⚡️ Languages and Tools
 
 <table align="center"> 
  <tr>
@@ -65,7 +64,7 @@
  </tr>
 </table>
 
-## 📊 Stats
+ 📊 Stats
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Freya135&locale=en&hide_title=false&layout=donut&langs_count=6&theme=dracula&hide_border=false&order=3" alt="languages graph"/>
 </div>
