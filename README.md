@@ -75,7 +75,7 @@
   
   Always up for collaborating on cutting-edge tech, brainstorming innovative solutions, or diving deep into new ideas. Reach out if you're looking to build something exciting, or just wonna chat!
   
-  [![Email](https://img.shields.io/badge/yashmeet1807@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:freyaraja135@gmail.com)
+  [![Email](https://img.shields.io/badge/freyaraja135@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:freyaraja135@gmail.com)
   
   <img src="https://komarev.com/ghpvc/?username=Freya135&style=flat-square&color=000000" alt="Profile views">
   
