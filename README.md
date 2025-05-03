@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  ## 💻 Tech Explorer | Code Craftsman | Problem Solver
+  ## Software Architect | ML Engineer | AI Developer | Cybersecurity Enthusiast
   
   I teach machines to learn, hackers to stay out, and code to behave—mostly. Basically, I'm into neural nets, cyber shenanigans, and making generative AI produce magic (or chaos).
   Crafting minimalist, seamless solutions with a focus on user experience—simple, smooth, and effortless to use.
