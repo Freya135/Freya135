@@ -66,7 +66,7 @@
 
 ## 📊 Stats
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Freya135&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=2" height="200" alt="streak graph"/>
+<img src="https://streak-stats.demolab.com?user=Freya135&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=2" height="250" alt="streak graph"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Freya135&locale=en&hide_title=false&layout=donut&langs_count=6&theme=dracula&hide_border=false&order=3" alt="languages graph"/>
 </div>
   
