@@ -78,7 +78,6 @@
   
   <img src="https://komarev.com/ghpvc/?username=Freya135&style=flat-square&color=000000" alt="Profile views">
   
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:555555&height=100&section=footer" width="100%" alt="Footer">
