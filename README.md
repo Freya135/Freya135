@@ -69,9 +69,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Freya135&locale=en&hide_title=false&layout=donut&langs_count=6&theme=dracula&hide_border=false&order=3" alt="languages graph"/>
 </div>
   
-<div>
-##📬 Get in Touch
-  
+## 📬 Get in Touch
+  <div align="centre">
   Always up for collaborating on cutting-edge tech, brainstorming innovative solutions, or diving deep into new ideas. Reach out if you're looking to build something exciting, or just wonna chat!
   
   [![Email](https://img.shields.io/badge/freyaraja135@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:freyaraja135@gmail.com)
