@@ -70,7 +70,6 @@
 </div>
   
 ## 📬 Get in Touch
-<div align="centre">
   Always up for collaborating on cutting-edge tech, brainstorming innovative solutions, or diving deep into new ideas. Reach out if you're looking to build something exciting, or just wonna chat!
   
   [![Email](https://img.shields.io/badge/freyaraja135@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:freyaraja135@gmail.com)
