@@ -77,7 +77,7 @@ Reach out if you're looking to build something exciting, or just wanna chat!
 
 <br>
 
-[![Email](https://img.shields.io/badge/freyaraja135@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:freyaraja135@gmail.com)
+[![Email](https://img.shields.io/badge/freyaraja135@gmail.com-6a7f60?style=flat-square&logo=gmail&logoColor=white)](mailto:freyaraja135@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=Freya135&style=flat-square&color=a8c3a0" alt="Profile views">
 
