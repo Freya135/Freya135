@@ -81,7 +81,7 @@ Reach out if you're looking to build something exciting, or just wanna chat!
 
 <img src="https://komarev.com/ghpvc/?username=Freya135&style=flat-square&color=000000" alt="Profile views">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8c3a0,100:d2e3c&height=100&section=footer" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8c3a0,100:d2e3c8&height=100&section=footer&textColor=transparent" width="100%" alt="Footer">
 
 </div>
 
