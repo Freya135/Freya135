@@ -69,8 +69,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Freya135&locale=en&hide_title=false&layout=donut&langs_count=6&theme=dracula&hide_border=false&order=3" alt="languages graph"/>
 </div>
   
-  
-  ##📬 Get in Touch
+<div>
+##📬 Get in Touch
   
   Always up for collaborating on cutting-edge tech, brainstorming innovative solutions, or diving deep into new ideas. Reach out if you're looking to build something exciting, or just wonna chat!
   
@@ -78,7 +78,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=Freya135&style=flat-square&color=000000" alt="Profile views">
   
-
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:555555&height=100&section=footer" width="100%" alt="Footer">
 </div>
