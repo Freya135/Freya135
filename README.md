@@ -79,9 +79,8 @@ Reach out if you're looking to build something exciting, or just wanna chat!
 
 [![Email](https://img.shields.io/badge/freyaraja135@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:freyaraja135@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=Freya135&style=flat-square&a8c3a0" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=Freya135&style=flat-square&color=a8c3a0" alt="Profile views">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8c3a0,100:d2e3c8&height=100&section=footer&textColor=transparent" width="100%" alt="Footer">
 
 </div>
-this is the code
