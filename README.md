@@ -5,8 +5,8 @@
   
   ## Software Architect | ML Engineer | AI Developer | Cybersecurity Enthusiast
   
-  I teach machines to learn, hackers to stay out, and code to behave—mostly. Basically, I'm into neural nets, cyber shenanigans, and making generative AI produce magic (or chaos).
-  Crafting minimalist, seamless solutions with a focus on user experience—simple, smooth, and effortless to use.
+  I teach machines to learn, hackers to stay out, and code to behave, sort of. Basically, I'm into neural nets, cyber shenanigans, and making generative AI produce magic (or chaos).
+  Crafting minimalist, seamless solutions with a focus on user experience, simple, smooth, and effortless to use.
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/freyaraja)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freyaraja135@gmail.com)
