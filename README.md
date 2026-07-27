@@ -6,9 +6,7 @@
 
 ## Software Architect | ML Engineer | AI Developer | Cybersecurity Enthusiast
 
-I design intelligent systems, develop scalable software solutions, and explore the intersection of artificial intelligence, cybersecurity, and modern engineering.
-
-Focused on building efficient, secure, and user-centric applications with a passion for machine learning, generative AI, and innovative technologies.
+I design intelligent systems, develop scalable software solutions, and explore the intersection of artificial intelligence, cybersecurity, and modern engineering. Focused on building efficient, secure, and user-centric applications with a passion for machine learning, generative AI, and innovative technologies.
 
 <br>
 
@@ -34,15 +32,15 @@ Focused on building efficient, secure, and user-centric applications with a pass
 <tr>
 
 <td>
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,solidity&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,rust,solidity&theme=dark"/>
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flask,django,bootstrap,php&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,flask,django,fastapi&theme=dark"/>
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis&theme=dark"/>
 </td>
 
 </tr>
@@ -50,17 +48,17 @@ Focused on building efficient, secure, and user-centric applications with a pass
 <tr>
 <td><b>AI / ML</b></td>
 <td><b>DevOps & Cloud</b></td>
-<td><b>Systems & Hardware</b></td>
+<td><b>Security & Systems</b></td>
 </tr>
 
 <tr>
 
 <td>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,vercel&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,githubactions,terraform,vercel&theme=dark"/>
 </td>
 
 <td>
@@ -71,33 +69,11 @@ Focused on building efficient, secure, and user-centric applications with a pass
 
 </table>
 
----
-
-## Stats
-
-<div align="center">
-
-<img height="180"
-src="https://github-readme-stats-eight-theta.vercel.app/api?username=Freya135&show_icons=true&theme=dracula&hide_border=true"/>
-
-<img height="180"
-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Freya135&layout=donut&langs_count=6&theme=dracula&hide_border=true"/>
-
-</div>
-
----
-
-
-
 ## Get in Touch
 
 <div align="center">
 
-Open to collaborating on artificial intelligence projects, cybersecurity initiatives, software engineering challenges, and innovative technology solutions.
-
-Interested in building impactful systems or discussing emerging technologies?
-
-Feel free to connect.
+Open to collaborating on AI projects, cybersecurity initiatives, software engineering challenges, and innovative technology solutions.
 
 [![Email](https://img.shields.io/badge/freyaraja135@gmail.com-6a7f60?style=flat-square&logo=gmail&logoColor=white)](mailto:freyaraja135@gmail.com)
 
