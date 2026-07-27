@@ -13,11 +13,8 @@ Focused on building efficient, secure, and user-centric applications with a pass
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/freyaraja)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freyaraja135@gmail.com)
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Freya135)
-
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/08wn619qh1cyptuwhmudt8ugn)
 
 </div>
@@ -90,19 +87,7 @@ src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=
 
 ---
 
-## Contribution Activity
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Freya135&theme=dracula&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Freya135&theme=dracula&hide_border=true"/>
-
-</div>
-
----
 
 ## Get in Touch
 
@@ -114,15 +99,9 @@ Interested in building impactful systems or discussing emerging technologies?
 
 Feel free to connect.
 
-<br>
-
 [![Email](https://img.shields.io/badge/freyaraja135@gmail.com-6a7f60?style=flat-square&logo=gmail&logoColor=white)](mailto:freyaraja135@gmail.com)
 
-<br>
-
 <img src="https://komarev.com/ghpvc/?username=Freya135&style=flat-square&color=a8c3a0">
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8c3a0,100:d2e3c8&height=100&section=footer&textColor=transparent" width="100%">
 
