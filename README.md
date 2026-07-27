@@ -1,169 +1,129 @@
+![Hi, I'm Freya](header_image.png)
+
+<br>
+
 <div align="center">
 
-<img src="header_image.png" width="100%" />
+## Software Architect | ML Engineer | AI Developer | Cybersecurity Enthusiast
 
-# Freya Raja
+I design intelligent systems, develop scalable software solutions, and explore the intersection of artificial intelligence, cybersecurity, and modern engineering.
 
-### Software Architect · Machine Learning Engineer · AI Developer · Cybersecurity Enthusiast
+Focused on building efficient, secure, and user-centric applications with a passion for machine learning, generative AI, and innovative technologies.
 
-Building intelligent systems, secure applications, and scalable digital experiences.
+<br>
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/freyaraja)
 
-<a href="https://linkedin.com/in/freyaraja">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:freyaraja135@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Freya135">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freyaraja135@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Freya135)
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/08wn619qh1cyptuwhmudt8ugn)
 
 </div>
 
-<br/>
-
 ---
 
-## Profile
+## Languages and Tools
 
-I am a software engineer focused on designing intelligent, secure, and scalable systems.
+<table align="center">
 
-My interests span artificial intelligence, machine learning, cybersecurity, cloud architecture, and modern software engineering practices.
+<tr>
+<td><b>Languages</b></td>
+<td><b>Web Development</b></td>
+<td><b>Database</b></td>
+</tr>
 
-I enjoy transforming complex problems into simple, reliable solutions with strong emphasis on performance, usability, and maintainability.
+<tr>
 
----
+<td>
+<img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,solidity&theme=dark"/>
+</td>
 
-## Expertise
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flask,django,bootstrap,php&theme=dark"/>
+</td>
 
-| Area | Focus |
-|---|---|
-| Artificial Intelligence | Machine Learning, Generative AI, LLM Applications |
-| Software Architecture | System Design, Scalable Applications, Clean Architecture |
-| Cybersecurity | Secure Development, Application Security, Threat Awareness |
-| Web Engineering | Full Stack Development, Modern Frameworks |
-| Cloud & DevOps | Containers, Deployment, Infrastructure Automation |
+<td>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark"/>
+</td>
 
----
+</tr>
 
-## Technology Stack
+<tr>
+<td><b>AI / ML</b></td>
+<td><b>DevOps & Cloud</b></td>
+<td><b>Systems & Hardware</b></td>
+</tr>
 
-### Programming Languages
+<tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,solidity&theme=dark"/>
-</p>
-
-### AI / Machine Learning
-
-<p>
+<td>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
-</p>
+</td>
 
-### Frontend Development
+<td>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,vercel&theme=dark"/>
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,bootstrap&theme=dark"/>
-</p>
+<td>
+<img src="https://skillicons.dev/icons?i=linux,bash,arduino,raspberrypi&theme=dark"/>
+</td>
 
-### Backend Development
+</tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask,django,nodejs&theme=dark"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark"/>
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,vercel,linux,bash&theme=dark"/>
-</p>
-
-### Hardware & Embedded Systems
-
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
-</p>
+</table>
 
 ---
 
-## GitHub Analytics
+## Stats
 
 <div align="center">
 
 <img height="180"
-src="https://github-readme-stats-eight-theta.vercel.app/api?username=Freya135&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=Freya135&show_icons=true&theme=dracula&hide_border=true"/>
 
 <img height="180"
-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Freya135&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Freya135&layout=donut&langs_count=6&theme=dracula&hide_border=true"/>
 
 </div>
 
 ---
 
-## Contribution Overview
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Freya135&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Freya135&theme=dracula&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Freya135&theme=dracula&hide_border=true"/>
 
 </div>
 
 ---
 
-## Development Philosophy
-
-```text
-Clean architecture over unnecessary complexity.
-
-Security by design.
-
-Automation over repetition.
-
-Simple interfaces. Powerful systems.
-```
-
----
-
-## Areas I Explore
-
-- Generative AI and intelligent applications
-- Large Language Models and AI agents
-- Machine learning pipelines
-- Secure software engineering
-- Distributed systems
-- Cloud-native architecture
-- Developer productivity tools
-
----
-
-## Connect
+## Get in Touch
 
 <div align="center">
 
-Open to collaborations, research discussions, and interesting engineering challenges.
+Open to collaborating on artificial intelligence projects, cybersecurity initiatives, software engineering challenges, and innovative technology solutions.
 
-<br/>
+Interested in building impactful systems or discussing emerging technologies?
 
-<a href="mailto:freyaraja135@gmail.com">
-freyaraja135@gmail.com
-</a>
+Feel free to connect.
 
-</div>
+<br>
 
-<br/>
+[![Email](https://img.shields.io/badge/freyaraja135@gmail.com-6a7f60?style=flat-square&logo=gmail&logoColor=white)](mailto:freyaraja135@gmail.com)
 
-<div align="center">
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Freya135&style=flat-square&color=6c8e7a"/>
+<img src="https://komarev.com/ghpvc/?username=Freya135&style=flat-square&color=a8c3a0">
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8c3a0,100:d2e3c8&height=100&section=footer&textColor=transparent" width="100%">
 
 </div>
